@@ -69,4 +69,4 @@ operar <- function() {
 }
 
 # Llama a la función para que el usuario pueda operar
-operar()
+operar() # Asegúrate de ejecutar esta línea DESPUÉS de definir todas las funciones
